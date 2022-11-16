@@ -1,3 +1,3 @@
 # git_test1
-My fisr
+My first GitHub Repo!
 Hello Odin!
